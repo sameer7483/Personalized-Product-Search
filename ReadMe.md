@@ -1,9 +1,5 @@
 # Personalized Product Search Engine
 
-       Atharva Moroney          Sameer Ahmed         Saksham Garg
-
-                       amm9801                      sa6142                     sg6482
-
 Big Data Application Development
 
 Fall 2022
